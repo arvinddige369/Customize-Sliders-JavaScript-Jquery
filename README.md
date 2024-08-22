@@ -1,1 +1,1 @@
-# Customize-Sliders-JavaScript-Jquery
+Customised Sliders Javascript, Jquery,CSS,HTML,
